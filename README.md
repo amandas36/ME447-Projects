@@ -1,1 +1,1 @@
-Project work for ME447 
+Project work for ME447: Computational Design and Dynamics of Soft Systems 
